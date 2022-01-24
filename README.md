@@ -7,5 +7,5 @@
 <!---
 vinnyneutron/vinnyneutron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----> Hi, I'm vinnyneutron, a fluid mechanics researcher with interests in exploring the capabilities of deep learning in jet propulsion research.I am looking to colaborate with others
+---> Hi, I'm vinnyneutron, a researcher with interests in exploring the capabilities of deep learning in jet propulsion research.I am looking to colaborate with others
 with similar interests. Feel free to reach out to me.
